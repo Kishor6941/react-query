@@ -15,6 +15,10 @@ const Layout = () => {
                 <li>
                     <NavLink to="/rq-super-heroes">RQ Super Heroes</NavLink>
                 </li>
+
+                <li>
+                    <NavLink to="/products">Products</NavLink>
+                </li>
             </ul>
         </nav>
     </div>
